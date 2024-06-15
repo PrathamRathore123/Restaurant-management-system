@@ -1,0 +1,102 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "Pav bhaji",
+            "price": 100,
+            "veg": true,
+            "reviews": [
+                5
+            ],
+            "quantity": 1
+        },
+        {
+            "id": 2,
+            "name": "Paneer tikka",
+            "price": 150,
+            "veg": true,
+            "reviews": [
+                3
+            ],
+            "quantity": 1
+        },
+        {
+            "id": 3,
+            "name": "Paneer momos",
+            "price": 120,
+            "veg": true,
+            "reviews": [3],
+            "quantity": 1
+        },
+        {
+            "id": 4,
+            "name": "Fried rice",
+            "price": 80,
+            "veg": true,
+            "reviews": [
+                5
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Chees pizza",
+            "price": 80,
+            "veg": true,
+            "reviews": [
+                5
+            ]
+        },
+        {
+            "id": 6,
+            "name": "cold coffee",
+            "price": 160,
+            "veg": true,
+            "reviews": [
+                3
+            ]
+        },
+        {
+            "id": 7,
+            "name": "chole bhature",
+            "price": 70,
+            "veg": true,
+            "reviews": [
+                3
+            ]
+        },
+        {
+            "id": 8,
+            "name": "chilly paneer",
+            "price": 130,
+            "veg": true,
+            "reviews": [
+                5
+            ]
+        },
+        {
+            "id": 9,
+            "name": "masala dhosa",
+            "price": 50,
+            "veg": true,
+            "reviews": [
+                2
+            ]
+        },
+        {
+            "id": 10,
+            "name": "chole kulche",
+            "price": 80,
+            "veg": true,
+            "reviews": [
+                1
+            ]
+        },
+        {
+            "id": 11,
+            "name": "pav bhaji",
+            "price": 80,
+            "veg": true,
+            "reviews": []
+        }
+    ]
+}
